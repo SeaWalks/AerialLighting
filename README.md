@@ -11,7 +11,7 @@ This Arduino sketch creates a pulsating animation using Adafruit NeoPixel LEDs. 
 ## Installation
 
 1. Make sure you have the [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) library installed.
-2. Copy the provided sketch (`Aerial.ino`) to your Arduino IDE.
+2. Copy the provided sketch (`Pulse.ino`) to your Arduino IDE.
 3. Connect your Adafruit NeoPixel LED strip to the specified pin (default is PIN 6).
 4. Upload the sketch to your Arduino board.
 
