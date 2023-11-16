@@ -19,7 +19,7 @@ This Arduino sketch creates a pulsating animation using Adafruit NeoPixel LEDs. 
 
 - `LED_PIN`: Pin to which the NeoPixel strip is connected.
 - `NUM_LEDS`: Number of LEDs in the strip.
-- `PULSE_LENGTH`: Length of each pulsating pulse.
+- `PULSE_LENGTH`: How many consecutive LED's in each pulse
 - `PULSE_COLOR_R`, `PULSE_COLOR_G`, `PULSE_COLOR_B`: RGB values for the pulse color.
 - `MIN_PULSE_DELAY`, `MAX_PULSE_DELAY`: Minimum and maximum delay between pulse movements.
 - `NUM_PULSES`: Number of simultaneous pulses.
