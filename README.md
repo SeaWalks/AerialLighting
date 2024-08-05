@@ -29,5 +29,5 @@ This Arduino sketch creates a pulsating animation using Adafruit NeoPixel LEDs. 
 
 Run the uploaded sketch on your Arduino board.
 
-Feel free to modify the configuration parameters to customize the animation to your liking.
+Feel free to modify the configuration parameters to customize the animation to your liking, or reach out to me on instagram @EricCraftworks if you need help modifying it for your own purposes.
 
